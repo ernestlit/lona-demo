@@ -34,27 +34,28 @@
 
 :root {
   --radius: 0.625rem;
-  /* Dark by default — Lona social app */
-  --background: oklch(0.08 0.01 260);
+  /* Lona dark — matches standard.css color-mode=dark */
+  --background: oklch(0.17 0 0);            /* #121212 */
   --foreground: oklch(0.98 0 0);
-  --card: oklch(0.13 0.015 260);
+  --card: oklch(0.2 0 0);
   --card-foreground: oklch(0.98 0 0);
-  --popover: oklch(0.13 0.015 260);
+  --popover: oklch(0.2 0 0);
   --popover-foreground: oklch(0.98 0 0);
-  --primary: oklch(0.65 0.21 252);
+  --primary: oklch(0.7 0.16 240);           /* #1DA1F2 main-blue */
   --primary-foreground: oklch(0.98 0 0);
-  --secondary: oklch(0.2 0.02 260);
+  --secondary: oklch(0.24 0 0);
   --secondary-foreground: oklch(0.98 0 0);
-  --muted: oklch(0.18 0.015 260);
-  --muted-foreground: oklch(0.6 0.02 260);
-  --accent: oklch(0.2 0.02 260);
+  --muted: oklch(0.24 0 0);                 /* unti-color tones */
+  --muted-foreground: oklch(0.62 0 0);      /* #B2B2B2 */
+  --accent: oklch(0.24 0 0);
   --accent-foreground: oklch(0.98 0 0);
   --destructive: oklch(0.65 0.22 25);
   --destructive-foreground: oklch(0.98 0 0);
-  --border: oklch(0.22 0.02 260);
-  --input: oklch(0.22 0.02 260);
-  --ring: oklch(0.65 0.21 252);
-  --brand: oklch(0.65 0.21 252);
+  --border: oklch(0.28 0 0);
+  --input: oklch(0.28 0 0);
+  --ring: oklch(0.7 0.16 240);
+  --brand: oklch(0.7 0.16 240);
+  --tag-fg: oklch(0.65 0.005 260);          /* #59646A tag-color */
 }
 
 @layer base {
