@@ -12,19 +12,6 @@ Many young users want social platforms that feel uplifting and supportive. Lona 
 - positive communities and friendships
 - discovery of inspiring content
 
-## What the app includes
-
-- A social feed with posts and updates
-- Story-style content for quick discovery
-- Search and explore features
-- Friends and community browsing
-- Inbox and profile sections
-- A clean, mobile-friendly experience
-
-## Main goal
-
-The goal of Lona is simple: make social media feel more intentional, encouraging, and positive for the youth. It aims to create a space where users can connect, learn, and grow without being pulled into negativity or unhealthy digital habits.
-
 ## Tech stack
 
 - React
@@ -46,14 +33,9 @@ The goal of Lona is simple: make social media feel more intentional, encouraging
    bun run dev
    ```
 
-3. Open the app in your browser at the local Vite URL shown in the terminal.
-
 ## Project structure
 
 - src/routes — app pages such as home, explore, friends, inbox, and profile
 - src/components — reusable UI components for the app shell and social features
 - src/lib — mock data and helper utilities
 
-## Vision
-
-Lona is more than just a social app. It is a positive digital space for the youth to connect, reflect, and build better habits while enjoying a modern social experience.
