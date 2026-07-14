@@ -1,4 +1,4 @@
-# Lona
+# Lona Demo
 
 Lona is a social media app created for young people who want to spend their time online in a healthier, more inspiring way. Instead of focusing on endless scrolling and comparison, the app is designed to encourage positive lifestyle habits, personal growth, creativity, wellness, and meaningful connection.
 
